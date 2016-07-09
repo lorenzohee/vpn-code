@@ -542,3 +542,5 @@ body .header {
 .qa table{width: 100%}
 .qa table tr td{padding: 5px; border: 1px solid #ccc}
 .dl_box dd{margin: 10px auto}
+
+.qa table td.active{background: #ece9e9}
